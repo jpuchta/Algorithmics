@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zegary", "Zegary\Zegary.csproj", "{E7082082-5692-4340-9F3D-B34D951D35B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZegaryTests", "ZegaryTests\ZegaryTests.csproj", "{0853782E-7729-4539-A4C2-B155C7367F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7082082-5692-4340-9F3D-B34D951D35B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7082082-5692-4340-9F3D-B34D951D35B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7082082-5692-4340-9F3D-B34D951D35B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7082082-5692-4340-9F3D-B34D951D35B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0853782E-7729-4539-A4C2-B155C7367F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0853782E-7729-4539-A4C2-B155C7367F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0853782E-7729-4539-A4C2-B155C7367F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0853782E-7729-4539-A4C2-B155C7367F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
