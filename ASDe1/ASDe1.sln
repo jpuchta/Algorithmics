@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytmy i struktury danych - eksperymenty 1", "Algorytmy i struktury danych - eksperymenty 1\Algorytmy i struktury danych - eksperymenty 1.csproj", "{457A8727-B561-4E27-A22A-C21548D9F066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolejki", "Kolejki\Kolejki.csproj", "{38EF4968-9DD6-4631-BBF2-9564AFFC4B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457A8727-B561-4E27-A22A-C21548D9F066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457A8727-B561-4E27-A22A-C21548D9F066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457A8727-B561-4E27-A22A-C21548D9F066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457A8727-B561-4E27-A22A-C21548D9F066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EF4968-9DD6-4631-BBF2-9564AFFC4B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EF4968-9DD6-4631-BBF2-9564AFFC4B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EF4968-9DD6-4631-BBF2-9564AFFC4B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EF4968-9DD6-4631-BBF2-9564AFFC4B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
